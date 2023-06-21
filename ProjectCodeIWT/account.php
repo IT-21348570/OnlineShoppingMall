@@ -6,7 +6,7 @@
 <?php include '../css/profile.css'; ?>
 </style>
 	
-		<title>user account</title>
+		<title>my user account</title>
 </head>
     <body>
             <div class="background-image"></div>
